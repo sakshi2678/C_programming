@@ -1,17 +1,19 @@
-# Assignment 2
+# C Programming – Logic Building
 
-This assignment contains C programming problems designed to improve logical thinking and problem-solving skills.
+# Description
+This repository contains basic C programs for logic building and programming practice.
 
-## Description
+# Programs
+1. Print a Given Number of Stars
+2. Print Stars Using a While Loop
+3. Display "Hello" or "Demo" Based on a Condition
+4. Display a Number Multiple Times
+5. Check Whether a Number Is Even or Odd
 
-The programs in this assignment focus on basic programming concepts, number operations, conditional statements, loops, and functions.
-
-Each program includes source code and appropriate input/output examples wherever required.
-
-## Language
-
+# Technologies Used
 - C Programming
+- GCC Compiler
+- Visual Studio Code
 
-## Author
-
+# Author
 Sakshi Shelke
