@@ -1,12 +1,19 @@
-c programming
-Program Details
+# C Programming – Logic Building
 
-Programs: Division, Display Marvellous 5 Times, Print Numbers from 5 to 1, Check Divisibility by 5, Print Stars
+# Description
+This repository contains basic C programs for logic building and programming practice.
 
-Input: Integer
+# Programs
+1. Division of Two Numbers
+2. Print "Marvellous" Five Times
+3. Print Numbers from 5 to 1
+4. Check Divisibility by 5
+5. Print Stars Using a Loop
 
-Output: Integer / Text / Symbols
+# Technologies Used
+- C Programming
+- GCC Compiler
+- Visual Studio Code
 
-Description: Performs basic operations using functions, loops, and conditional statements in C programming.
-
-Language: C
+# Author
+Sakshi Shelke
