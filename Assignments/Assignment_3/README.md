@@ -1,15 +1,19 @@
-# Assignment 3
-
-This assignment contains C programming solutions developed as part of Logic Building practice.
+# C Programming – Logic Building
 
 ## Description
+This repository contains basic C programs for logic building and programming practice.
 
-This assignment focuses on improving programming logic and problem-solving skills through C programming.
+## Programs
+1. Print Even Numbers
+2. Display Even Factors of a Number
+3. Display Even Factors Excluding the Number Itself
+4. Convert Character Case
+5. Check Whether a Character Is a Vowel
 
-## Language
-
+## Technologies Used
 - C Programming
+- GCC Compiler
+- Visual Studio Code
 
 ## Author
-
 Sakshi Shelke
